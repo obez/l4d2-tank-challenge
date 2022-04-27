@@ -1,0 +1,14 @@
+"AddonInfo"
+{
+     addonSteamAppID        550
+     addontitle             "Tank Challenge"
+     addonversion           1.5
+     addontagline           "Tank Challenge"
+     addonauthor            "obez"
+     addonauthorSteamID     "STEAM_0:1:22154623"
+     addonContent_Campaign  1
+     addonContent_Map       1
+     addonURL0              "http://steamcommunity.com/sharedfiles/filedetails/?id=151833267"
+     addonDescription       "Survive increasing tank waves"
+     addonSteamGroupName    "TankPlaygrnd"
+}

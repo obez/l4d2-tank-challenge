@@ -1,0 +1,49 @@
+"mission"
+{
+  "Name"          "TankChallenge"
+  "Version"       "7"
+  "Author"        "obez"
+  "Website"       "http://steamcommunity.com/sharedfiles/filedetails/?id=151833267"
+  "DisplayTitle"  "Tank Challenge v1.5"
+  "Description"   "Survive increasing tank waves"
+  "survivor_set"  "1"
+  "OuttroImage"   "vgui\OutroTitle_l4d2_tank_challenge"
+
+  "poster"
+  {
+    "posterImage"            "LoadingScreen_l4d2_tank_challenge"
+    "posterImage_widescreen" "LoadingScreen_l4d2_tank_challenge_wide"
+    "fullscreen"             "1"
+  }
+
+  "modes"
+  {
+    "coop"
+    {
+      "1"
+      {
+        "Map"         "l4d2_tank_challenge"
+        "DisplayName" "10 rounds"
+        "Image"       "maps/l4d2_tank_challenge"
+      }
+      "2"
+      {
+        "Map"         "l4d2_tank_challenge_15_rounds"
+        "DisplayName" "15 rounds"
+        "Image"       "maps/l4d2_tank_challenge_15_rounds"
+      }
+      "3"
+      {
+        "Map"         "l4d2_tank_challenge_20_rounds"
+        "DisplayName" "20 rounds"
+        "Image"       "maps/l4d2_tank_challenge_20_rounds"
+      }
+      "4"
+      {
+        "Map"         "l4d2_tank_challenge_30_rounds"
+        "DisplayName" "30 rounds"
+        "Image"       "maps/l4d2_tank_challenge_30_rounds"
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+Tank Challenge v1.5, by obez - 2016-03-22
+
+Changelog ---------------------------------------------------------------------
+  1.5 (2016-03-22)
+    - Cut the ladder in two segments to avoid camping
+    - More random molotovs
+
+Info --------------------------------------------------------------------------
+
+An offshoot of Tanks Playground, a little idea we had while playing Tanks Playground with friends. 
+
+Survive waves of tanks with increasing difficulty until rescue.
+
+At each wave, one additional tank will spawn (ie. 6 tanks at round 6).
+
+Easy mode only spawns one tank at each round (game limitation). 
+
+At round 9, miniguns raise, beware not to go alone as Tanks love miniguns (10 rounds version only).
+
+The map is a small area extracted from Tanks Playground and modified a bit to accomodate the new mode. 
+
+Bodies of players who fall into the water get teleported to the white cross at the start of the following round.
+
+Have fun!
+
+Known Issues / Bugs -----------------------------------------------------------
+Players bodies don't teleport in Realism mode.
+
+Previous updates -----------------------------------------------------------------
+  1.4 (2016-01-17)
+    - No more special infected at the end of the 10 rounds version
+    - Kits are spawned with physics again (fix for Bleeding Out mutation)
+    - One more random molotov spawn each round after round 10
+    - One more random molotov spawn each round after round 20
+
+  1.3 (2016-01-06)
+    - Added 15 and 20 rounds versions (now with 10, 15, 20 and 30 rounds)
+    - Small textures and geometry adjustments
+    - More rounds with a defib (up to round 15)
+    - At the beginning of each round, a molotov will appear at a random point around the map
+    - Attached the items to the stashes to try and reduce the lag
+    - Added an explosive barrel
+    - Removed some ammo stashes
+    - Updated the maps icons shown when using TAB
+
+  1.2 (2013-08-24)
+    - Added a new way for tanks to reach the top, near the small ladder
+    - Added a version with 30 levels with more items after rounds 10, 15 and 20 (but no miniguns)
+    - Round counter won't go over 10 anymore
+    - New infected ladder near the rescue
+    - Round counter now updates at the beginning of Refill rounds
+
+  1.1 (2013-07-05)
+    - Fixed an issue with an infected ladder
+    - Updated the mod URL
+    - Added two new ways to go to the lower ground
+    - Added teleportation of drowned players (at the beginning of each tank round)
+    - Miniguns now raise at round 9
+    - Fixed the broken spawn because of Valve's EMS update
+    - Added melee weapons
+    - Removed the ammo pile near the helicopter
+
+  1.0 (2013-06-09)
+    - Initial release
+
+Plans -------------------------------------------------------------------------
+Version at night.
+
+Misc notes --------------------------------------------------------------------
+
+Thanks to ---------------------------------------------------------------------
+  - Feedback and test sessions: Mister, Rooky Moon, Balledur, Leonblank, Firewalled
